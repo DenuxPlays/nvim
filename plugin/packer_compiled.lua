@@ -168,6 +168,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "C:\\Users\\timon\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\vim-fugitive",
     url = "https://github.com/tpope/vim-fugitive"
+  },
+  ["vim-wakatime"] = {
+    loaded = true,
+    path = "C:\\Users\\timon\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\vim-wakatime",
+    url = "https://github.com/wakatime/vim-wakatime"
   }
 }
 
