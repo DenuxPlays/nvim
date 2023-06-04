@@ -31,6 +31,7 @@ return require('packer').startup(function(use)
   use("mbbill/undotree")
   use("tpope/vim-fugitive")
   use("wakatime/vim-wakatime")
+  use("github/copilot.vim")
 
 --LSP
   use {
