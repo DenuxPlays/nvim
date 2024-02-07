@@ -17,7 +17,6 @@ return {
 				"lua",
 				"dockerfile",
 				"gitignore",
-				"query",
 				"rust",
 				"java",
 				"php",
